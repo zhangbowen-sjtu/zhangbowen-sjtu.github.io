@@ -1,6 +1,6 @@
 # Bowen Zhang (张博文)
 
-I am a third-year PhD student at Shanghai Jiao Tong University advised by Prof. Hong Mei and Prof. Linpeng Huang. I recevied my bachelor degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021. My research interests include persistent memory-based systems and disaggregated memory systems.
+I am a third-year PhD student at Shanghai Jiao Tong University advised by Prof. Hong Mei and Prof. Linpeng Huang. I received my bachelor degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021. My research interests include persistent memory-based systems and disaggregated memory systems.
 
 # Publication
 
@@ -29,4 +29,3 @@ I am a third-year PhD student at Shanghai Jiao Tong University advised by Prof. 
   Liangxu Nie, Shengan Zheng, **Bowen Zhang**, Jinyan Xu, Linpeng Huang
 
   Published in  *IEEE International Conference on Computer Design (ICCD)* , 2023
-*
