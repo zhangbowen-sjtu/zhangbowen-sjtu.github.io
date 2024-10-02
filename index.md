@@ -10,8 +10,7 @@ My research interests focus on designing storage systems (e.g., database systems
   * NBTree (VLDB 22): A persistent B+Tree that employs a two-layer leaf node structure to minimize the number of PM accesses and a lock-free concurrency protocol to enhance scalability.
   * Spash (ICDE 24): A persistent hash index that combines the benefits of HTM and persistent CPU cache to minimize write amplification and maximize concurrency.
   * Calloc (TPDS 24): A persistent memory allocator that fully exploits the persistent CPU cache to absorb PM writes during memory management.
-* **Disaggregated Memory-based Systems.** Disaggregated memory systems disseminate the compute and memory resources of monolithic servers into two independent network-attached pools, offering
-  high resource utilization, enhanced architectural elasticity, and fine-grained failure domain. These advantages have motivated our exploration into optimizing current systems for this innovative architecture.
+* **Disaggregated Memory-based Systems.** Disaggregated memory systems disseminate the compute and memory resources of monolithic servers into two independent network-attached pools, offering high resource utilization, enhanced architectural elasticity, and fine-grained failure domain. These advantages have motivated our exploration into optimizing current systems for this innovative architecture.
 
 # Publication
 
