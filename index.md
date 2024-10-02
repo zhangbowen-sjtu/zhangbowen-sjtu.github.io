@@ -2,7 +2,6 @@
 
 I am a third-year PhD student at Shanghai Jiao Tong University, advised by Prof. Hong Mei and Prof. Linpeng Huang. I received my bachelor's degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
 
-
 # Research
 
 My research interests focus on designing storage systems (e.g., database systems, key-value stores, and file systems) for modern hardware (e.g., persistent memory, RDMA, CXL, SmartNIC) or architecture (e.g., resource disaggregation). My current projects including:
@@ -13,7 +12,6 @@ My research interests focus on designing storage systems (e.g., database systems
   * Calloc (TPDS 24): A persistent memory allocator that fully exploits the persistent CPU cache to absorb PM writes during memory management.
 * **Disaggregated Memory-based Systems.** Disaggregated memory systems disseminate the compute and memory resources of monolithic servers into two independent network-attached pools, offering
   high resource utilization, enhanced architectural elasticity, and fine-grained failure domain. These advantages have motivated our exploration into optimizing current systems for this innovative architecture.
-  * Griffin (under review): A lock-free learned hash index for disaggregated memory systems to achieve low network amplification, high concurrency, and failure isolation.
 
 # Publication
 
