@@ -50,4 +50,4 @@ My research interests focus on designing storage systems (e.g., database systems
 
 # 👨‍🏫 Teaching
 
-- Computer Architecture [2022, 2023, 2024-spring] **Teaching Assistant**
+- [2022, 2023, 2024] [Spring] Computer Architecture **Teaching Assistant**
