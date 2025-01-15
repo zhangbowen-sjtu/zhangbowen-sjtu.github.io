@@ -18,7 +18,7 @@ redirect_from:
 
 I am a fourth-year PhD student at Shanghai Jiao Tong University, advised by Prof. Hong Mei and Prof. Linpeng Huang. I received my bachelor’s degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
 
-My research interests focus on designing storage systems (e.g., database systems, key-value stores, and file systems) for modern hardware (e.g., persistent memory, RDMA, CXL, SmartNIC) or architecture (e.g., resource disaggregation).
+My research interests focus on designing storage systems (e.g., database systems, key-value stores, and file systems) for modern hardware (e.g., RDMA, CXL, SmartNIC, Persistent Memory) and architecture (e.g., resource disaggregation).
 
 # 🔥 News
 
@@ -37,12 +37,17 @@ My research interests focus on designing storage systems (e.g., database systems
 # 🎖 Honors and Awards
 
 - *2024* National Scholarship for PhD Graduate Student
+- *2021* Zhiyuan Honorary Bachelor’s Degree
 - *2021* Outstanding Graduate of Shanghai Jiao Tong University
 - *2020, 2019, 2018, 2017* Zhiyuan Honor Scholarship
-- *2020* Weichai Scholarship
 - *2020, 2019, 2018* Outstanding Scholarship of Shanghai Jiao Tong University
+- *2020* Weichai Scholarship
 
 # 📖 Educations
 
 - *2021.09 - now*, Shanghai Jiao Tong University, Department of Computer Science and Engineering. (Advised by Hong Mei)
 - *2017.09 - 2021.06*, Shanghai Jiao Tong University, Department of Computer Science and Engineering. (Zhiyuan Honors)
+
+# 👨‍🏫 Teaching
+
+- Computer Architecture [2022, 2023, 2024-spring] **Teaching Assistant**
