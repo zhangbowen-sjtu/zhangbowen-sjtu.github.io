@@ -18,7 +18,7 @@ redirect_from:
 
 I am a fourth-year PhD student at Shanghai Jiao Tong University, advised by Prof. Hong Mei and Prof. Linpeng Huang. I received my bachelor’s degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
 
-My research interests focus on designing storage systems (e.g., database systems, key-value stores, and file systems) for modern hardware (e.g., RDMA, CXL, SmartNIC, Persistent Memory) and architecture (e.g., resource disaggregation).
+My research interests focus on designing storage systems (e.g., database systems, key-value stores, and file systems) for modern hardware (e.g., RDMA, CXL, SmartNIC, Persistent Memory) and architecture (e.g., memory disaggregation).
 
 # 🔥 News
 
@@ -33,6 +33,14 @@ My research interests focus on designing storage systems (e.g., database systems
 * **[VLDB]** NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems. **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang. The 48th International Conference on Very Large Data Bases (VLDB'22), 2022
 * **[ICPP]** Conflux: Exploiting Persistent Memory and RDMA Bandwidth via Adaptive I/O Mode Selection. Zhenlin Qi, Shengan Zheng, Yifeng Hui, **Bowen Zhang**, Linpeng Huang. The 52nd International Conference on Parallel Processing (ICPP'23), 2023
 * **[ICCD]** Heart: A Scalable, High-performance ART for Persistent Memory. Liangxu Nie, Shengan Zheng, **Bowen Zhang**, Jinyan Xu, Linpeng Huang. The 41st IEEE International Conference on Computer Design (ICCD'23), 2023
+
+# 💻 Projects
+
+- Key Techniques for Memory Pooling in Heterogeneous Distributed Computing Systems. (*The National Key Research and Development
+  Program of China, 2022-2025*)
+- Distributed Key-Value Storage System for Disaggregated Memory. (*SJTU - Huawei Joint Laboratory Project, 2023-2024*)
+- TB-Level Persistent Memory Storage Technologies and Systems. (*The National Key Research and Development Program of China,
+  2020-2021*)
 
 # 🎖 Honors and Awards
 
