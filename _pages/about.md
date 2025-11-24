@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year PhD student at Shanghai Jiao Tong University, advised by Prof. Hong Mei and Prof. Linpeng Huang. I received my bachelor’s degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
+I am a fifth-year PhD student at Shanghai Jiao Tong University, advised by Prof. Hong Mei and Prof. Linpeng Huang. I received my bachelor’s degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
 
 My research interests focus on designing storage systems (e.g., database systems, key-value stores, and file systems) for modern hardware (e.g., RDMA, CXL, SmartNIC, Persistent Memory) and architecture (e.g., memory disaggregation).
 
