@@ -22,12 +22,13 @@ My research interests focus on designing storage systems (e.g., database systems
 
 # 🔥 News
 
-- *2024.03*: &nbsp;🎉 One paper is accepted by TPDS.
-- *2023.12*: &nbsp;🎉 One paper is accepted by ICDE 24.
-- *2022.01*: &nbsp;🎉 One paper is accepted by VLDB 22.
+- *2025.11*: &nbsp;🎉 One paper is accepted by SIGMOD 26.
+- *2025.02*: &nbsp;🎉 One paper is accepted by DAC 25.
+- *2025.01*: &nbsp;🎉 One paper is accepted by Eurosys 25.
 
 # 📝 Publications
 
+* **[SIGMOD]** DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory. **Bowen Zhang**, Shengan Zheng, Shi Shu, Jingxiang Li, Zhenlin Qi, Weiquan Huang, Jianguo Wang, Linpeng Huang, Hong Mei.  ACM SIGMOD International Conference on Management of Data (SIGMOD'26), 2026
 * **[ICDE]** Exploiting Persistent CPU Cache for Scalable Persistent Hash Index. **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Linpeng Huang, Hong Mei.  The 40th IEEE International Conference on Data Engineering (ICDE'24), 2024
 * **[TPDS]** Revisiting PM-based B+-Tree with Persistent CPU Cache. **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Hongyi Chen, Linpeng Huang, Hong Mei. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
 * **[VLDB]** NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems. **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang. The 48th International Conference on Very Large Data Bases (VLDB'22), 2022
