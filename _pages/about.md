@@ -34,7 +34,8 @@ My research interests focus on designing storage systems (e.g., database systems
 * **[ICDE]** Exploiting Persistent CPU Cache for Scalable Persistent Hash Index.
   **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Linpeng Huang, Hong Mei.
   The 40th IEEE International Conference on Data Engineering (ICDE'24), 2024
-* **[VLDB]** NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems. **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang.
+* **[VLDB]** NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems. 
+  **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang.
   The 48th International Conference on Very Large Data Bases (VLDB'22), 2022
 * **[TPDS]** Revisiting PM-based B+-Tree with Persistent CPU Cache.
   **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Hongyi Chen, Linpeng Huang, Hong Mei.
