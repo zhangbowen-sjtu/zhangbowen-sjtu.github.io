@@ -28,54 +28,46 @@ My research interests focus on designing storage systems (e.g., database systems
 
 # 📝 Publications
 
-
 * **[SIGMOD]** DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory.
 
-    **Bowen Zhang**, Shengan Zheng, Shi Shu, Jingxiang Li, Zhenlin Qi, Weiquan Huang, Jianguo Wang,   Linpeng Huang, Hong Mei.
+  **Bowen Zhang**, Shengan Zheng, Shi Shu, Jingxiang Li, Zhenlin Qi, Weiquan Huang, Jianguo Wang,   Linpeng Huang, Hong Mei.
 
-    ACM International Conference on Management of Data (SIGMOD), 2026
+  Published in _ACM International Conference on Management of Data (SIGMOD)_, 2026
+* **[ICDE]** Exploiting Persistent CPU Cache for Scalable Persistent Hash Index.
 
-*  **[ICDE]** Exploiting Persistent CPU Cache for Scalable Persistent Hash Index.
+  **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Linpeng Huang, Hong Mei.
 
-    **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Linpeng Huang, Hong Mei.
+  Published in _IEEE International Conference on Data Engineering (ICDE)_, 2024
+* **[TPDS]** Revisiting PM-based B+-Tree with Persistent CPU Cache.
 
-    IEEE International Conference on Data Engineering (ICDE), 2024
+  **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Hongyi Chen, Linpeng Huang, Hong Mei.
 
-*  **[TPDS]** Revisiting PM-based B+-Tree with Persistent CPU Cache.
+  Published in _IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 2024
+* **[VLDB]** NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems.
 
-    **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Hongyi Chen, Linpeng Huang, Hong Mei.
+  **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang.
 
-    IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
+  Published in _International Conference on Very Large Data Bases (VLDB)_, 2022
+* **[Eurosys]** Chrono: Meticulous Hotness Measurement and Flexible Page Migration for Memory Tiering.
 
-*  **[VLDB]** NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems.
+  Zhenlin Qi, Shengan Zheng, Ying Huang, Yifeng Hui,**Bowen Zhang**, Linpeng Huang, Hong Mei.
 
-    **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang.
+  Published in _European Conference on Computer Systems (Eurosys)_, 2025
+* **[DAC]** Sphinx: A High-Performance Hybrid Index for Disaggregated Memory with Succinct Filter Cache.
 
-    International Conference on Very Large Data Bases (VLDB), 2022
+  Jingxiang Li, Shengan Zheng,**Bowen Zhang**, Hankun Dong, Linpeng Huang.
 
-*  **[Eurosys]** Chrono: Meticulous Hotness Measurement and Flexible Page Migration for Memory Tiering.
+  Published in _Design Automation Conference (DAC)_, 2025
+* **[ICPP]** Conflux: Exploiting Persistent Memory and RDMA Bandwidth via Adaptive I/O Mode Selection.
 
-    Zhenlin Qi, Shengan Zheng, Ying Huang, Yifeng Hui,**Bowen Zhang**, Linpeng Huang, Hong Mei.
+  Zhenlin Qi, Shengan Zheng, Yifeng Hui,**Bowen Zhang**, Linpeng Huang.
 
-    European Conference on Computer Systems (Eurosys), 2025
+  Published in _International Conference on Parallel Processing (ICPP)_, 2023
+* **[ICCD]** Heart: A Scalable, High-performance ART for Persistent Memory.
 
-*  **[DAC]** Sphinx: A High-Performance Hybrid Index for Disaggregated Memory with Succinct Filter Cache.
+  Liangxu Nie, Shengan Zheng,**Bowen Zhang**, Jinyan Xu, Linpeng Huang.
 
-    Jingxiang Li, Shengan Zheng,**Bowen Zhang**, Hankun Dong, Linpeng Huang.
-
-    Design Automation Conference (DAC), 2025
-
-*  **[ICPP]** Conflux: Exploiting Persistent Memory and RDMA Bandwidth via Adaptive I/O Mode Selection.
-
-    Zhenlin Qi, Shengan Zheng, Yifeng Hui,**Bowen Zhang**, Linpeng Huang.
-
-    International Conference on Parallel Processing (ICPP), 2023
-
-*  **[ICCD]** Heart: A Scalable, High-performance ART for Persistent Memory.
-
-    Liangxu Nie, Shengan Zheng,**Bowen Zhang**, Jinyan Xu, Linpeng Huang.
-
-    IEEE International Conference on Computer Design (ICCD), 2023
+  Published in _IEEE International Conference on Computer Design (ICCD)_, 2023
 
 # 💻 Projects
 
