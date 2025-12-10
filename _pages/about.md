@@ -28,9 +28,9 @@ My research interests focus on designing storage systems (e.g., database systems
 
 # 📝 Publications
 
-* **[SIGMOD]** DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory.
-  **Bowen Zhang**, Shengan Zheng, Shi Shu, Jingxiang Li, Zhenlin Qi, Weiquan Huang, Jianguo Wang, Linpeng Huang, Hong Mei.
-  ACM International Conference on Management of Data (SIGMOD), 2026
+* **[SIGMOD]** DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory.  
+   **Bowen Zhang**, Shengan Zheng, Shi Shu, Jingxiang Li, Zhenlin Qi, Weiquan Huang, Jianguo Wang, Linpeng Huang, Hong Mei.
+      ACM International Conference on Management of Data (SIGMOD), 2026
 * **[ICDE]** Exploiting Persistent CPU Cache for Scalable Persistent Hash Index.
   **Bowen Zhang**, Shengan Zheng, Liangxu Nie, Zhenlin Qi, Linpeng Huang, Hong Mei.
   IEEE International Conference on Data Engineering (ICDE), 2024
