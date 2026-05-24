@@ -100,8 +100,9 @@ My research interests focus on designing storage systems (e.g., database systems
 
 # 📖 Educations
 
-- *2021.09 - now*, Shanghai Jiao Tong University, Department of Computer Science and Engineering. (Advised by Hong Mei)
-- *2017.09 - 2021.06*, Shanghai Jiao Tong University, Department of Computer Science and Engineering. (Zhiyuan Honors)
+- *2021.09 - now*, Shanghai Jiao Tong University, School of Computer Science. PhD Student, advised by Hong Mei.
+- *2025.06 - 2026.06*, Purdue University, Department of Computer Science. Visiting Scholar, advised by Jianguo Wang.
+- *2017.09 - 2021.06*, Shanghai Jiao Tong University, School of Computer Science. Bachelor’s Degree, Zhiyuan Honors Program.
 
 # 👨‍🏫 Teaching
 
