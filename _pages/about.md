@@ -22,6 +22,8 @@ My research interests focus on designing storage systems (e.g., database systems
 
 # 🔥 News
 
+- *2026.5*: &nbsp;🎉 One paper is accepted by TACO.
+- *2026.2*: &nbsp;🎉 One paper is accepted by VLDB 26.
 - *2025.11*: &nbsp;🎉 One paper is accepted by SIGMOD 26.
 - *2025.02*: &nbsp;🎉 One paper is accepted by DAC 25.
 - *2025.01*: &nbsp;🎉 One paper is accepted by Eurosys 25.
@@ -48,6 +50,16 @@ My research interests focus on designing storage systems (e.g., database systems
   **Bowen Zhang**, Shengan Zheng, Zhenlin Qi, Linpeng Huang.
 
   Published in _International Conference on Very Large Data Bases (VLDB)_, 2022
+* **[VLDB]** Kirin: Efficient In-Storage Learned Compaction for LSM-Trees via System-Algorithm Co-Design
+
+  Guifeng Wang, Shengan Zheng, Penghao Sun, Jin Pu, Kaijiang Deng, **Bowen Zhang**, Weihan Kong, Cong Zhou, Yifan Hua, Linpeng Huang
+
+  Published in _International Conference on Very Large Data Bases (VLDB)_, 2026
+* **[TACO]** SwitchFS: Exploiting Persistent Memory Bandwidth in Cluster via Learning-based I/O Path Selection
+
+  Zhenlin Qi, Shengan Zheng, **Bowen Zhang**, Linpeng Huang
+
+  Published in *ACM Transactions on Architectureand Code Optimization (TACO)*, 2026
 * **[Eurosys]** Chrono: Meticulous Hotness Measurement and Flexible Page Migration for Memory Tiering.
 
   Zhenlin Qi, Shengan Zheng, Ying Huang, Yifeng Hui,**Bowen Zhang**, Linpeng Huang, Hong Mei.
